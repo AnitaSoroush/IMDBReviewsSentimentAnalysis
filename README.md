@@ -4,7 +4,7 @@ This project is a sentiment analysis of 50k movie reviews on Internet Movie Data
 
 [SentimentAnalysis_IMDBReviewsipynb.](https://github.com/AnitaSoroush/IMDBReviewsSentimentAnalysis/blob/main/SentimentAnalysis_IMDBReviews.ipynb) consists of the following steps:
 
-**Preprocessing**: 
+> **Preprocessing**: 
 > - Lowercasting
 > - Removing URLs
 > - Removing Punctuations
@@ -12,9 +12,9 @@ This project is a sentiment analysis of 50k movie reviews on Internet Movie Data
 > - Handling Emogies
 > - stemming
 
-**vectorizing using TF-IDF**
+> **vectorizing using TF-IDF**
 
-**building, training and testing the model using 3 methods**:
+> **building, training and testing the model using 3 methods**:
 > - Logistic Regression
 > - Random Forest Classifier
 > - Decision Tree Classifier
