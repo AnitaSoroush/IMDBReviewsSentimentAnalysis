@@ -8,3 +8,6 @@ SentimentAnalysis_IMDBReviews. consists of the following steps:
 > vectorizing using TF-IDF
 
 > building, training and testing the model using 3 methods:
+> - Logistic Regression
+> - Random Forest Classifier
+> - Decision Tree Classifier
