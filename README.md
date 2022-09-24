@@ -4,5 +4,7 @@ This project is a sentiment analysis of 50k movie reviews on Internet Movie Data
 
 SentimentAnalysis_IMDBReviews. consists of the following steps:
 > Preprocessing: 
+
 > vectorizing using TF-IDF
+
 > building, training and testing the model using 3 methods:
